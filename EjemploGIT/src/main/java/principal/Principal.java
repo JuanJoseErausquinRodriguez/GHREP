@@ -9,6 +9,10 @@ public class Principal {
 		
 		System.out.println("Ya se usar GIT");
 		
+		String mivariable;
+		String mientero;
+		
+		
 	}
 
 }
